@@ -56,6 +56,8 @@ Link to project repository: [https://github.com/Lyman17/Social-Network-API](http
 ## Tests
 no tests needed. for usage of API, see above
 
+[Click here for Walkthrough Video](https://drive.google.com/file/d/1gWalqddSUYMynLx-1V3bEOGOO4S-vAfd/view?usp=sharing)
+
 ## Credits
 Received significant help on this project from Jeremy Rapich - Full Stack Web Developer
 
